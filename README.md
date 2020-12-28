@@ -9,5 +9,5 @@ Rendering is done in multiple threads in parallel, but otherwise it isn't very o
 
 The build is just a plan Makefile that may need adjustment for where SDL2 is installed in your system.
 
-![Screenshot off Mandelbrot SDL2](https://github.com/ranton256/mandelbrot-sdl2/blob/main/mandelbrot_screenshot.png?raw=true)
+![Screenshot off Mandelbrot SDL2](mandelbrot_screenshot.png?raw=true)
 
